@@ -21,8 +21,8 @@ $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$ |  $$ |
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamzatarq150&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatarq150&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamzatariq150&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzatariq150&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$$$\ $$ |  $$ |
 `Python` `C++` `TypeScript` `HTML` `Unity` `Torch`
 
 ### 🔗 Find me
-[GitHub](https://github.com/hamzatarq150) · [LinkedIn](#) · [Portfolio](#)
+[GitHub](https://github.com/hamzatariq150) · [LinkedIn](#) · [Portfolio](#)
 ```
 
 ---
